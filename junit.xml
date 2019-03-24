@@ -1841,4 +1841,4 @@
     <testcase classname="webpack utils mjs returns correct rule" name="webpack utils mjs returns correct rule" time="0.002">
     </testcase>
   </testsuite>
-</testsuites>
+ </testsuites>
